@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #e4e05b;
+    color: white;
+    padding: 1rem;
+}
+
+main {
+    padding: 1rem;
+}
+
+#search-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+#city-input {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+#weather-section {
+    margin-bottom: 2rem;
+}
+
+#forecast-container {
+    display: flex;
+    gap: 1rem;
+}
+
+#history-section {
+    margin-top: 2rem;
+}

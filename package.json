@@ -1,0 +1,14 @@
+{
+    "name": "weather-dashboard",
+    "version": "1.0.0",
+    "description": "A weather dashboard application",
+    "main": "assets/js/script.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+      "start": "live-server"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
